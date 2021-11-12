@@ -3,7 +3,7 @@ let output = document.querySelector('h1');
 
 //Array contains phrases in order starting at 0 
 let phrases = []
-phrases.push("warning")
+phrases.push("Warning")
 phrases.push("Kellys duck")
 phrases.push("One little duck")
 phrases.push("Cup of tea")
