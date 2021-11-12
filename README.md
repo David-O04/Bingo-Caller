@@ -8,6 +8,7 @@ HTML, CSS and pure JavaScript
 - Make programme compatible with Android and IOS
 - Add bingo ball animation that appears when numbers are called
 - Make graphical improvements
+- Add sounds, intonation and animations 
 
 ### Languages Used
 - HTML
